@@ -3,7 +3,7 @@ password = input("Enter your Password? ")
 def view_pass():
     with open("password.txt", "r") as f:
         for line in f.readlines():
-            print(line)
+            pass
 
 def add_pass():
     name = input("Account Name: ")
