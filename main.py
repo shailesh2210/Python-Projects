@@ -24,5 +24,6 @@ while True:
     else:
         print("Invalid")
 
-# view_pass()
-# add_pass()
+view_pass()
+add_pass()
+        
